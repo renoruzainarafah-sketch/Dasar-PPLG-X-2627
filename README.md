@@ -1,23 +1,27 @@
-# Hi, I'm Reno Ruzain Arafah 👋
 
-Saya adalah siswa kelas **X PPLG** (Pengembangan Perangkat Lunak dan GIM) di **SMK Muhammadiyah 3 Tangerang Selatan**. Saya memiliki ketertarikan dalam dunia pemrograman, pengembangan aplikasi, dan teknologi software.
+# Hi, I'm Reno Ruzain Arafah 👋🏽 💻
 
----
-
-### 💻 Tech & Tools
-
-* **Programming Languages:** HTML, CSS, JavaScript
-* **Tools:** VS Code, Git, GitHub
-* **Focus:** Mempelajari dasar-dasar pemrograman dan rekayasa perangkat lunak.
+I am a student at **SMK Muhammadiyah 3 Tangsel** majoring in **Software and Game Development (PPLG)**. I am passionate about programming, application development, and web technology.
 
 ---
 
-### 🌐 Find me around the web:
-
-* **Email:** [renoruzainarafah@gmail.com](mailto:renoruzainarafah@gmail.com)
-* **LinkedIn:** [Reno Ruzain Arafah](https://www.linkedin.com)
-* **Instagram:** [@renoruzain](https://www.instagram.com)
+### 🎓 Education & Major
+* **School:** SMK Muhammadiyah 3 Tangerang Selatan
+* **Grade:** 10th Grade (Class X)
+* **Major:** Software and Game Development (PPLG)
 
 ---
 
-> *"Terus belajar dan berkarya melalui kode."*
+### 🛠️ Tech Stack & Languages
+* **Languages:** HTML, CSS, JavaScript
+* **Tools:** Visual Studio Code, Git, GitHub
+
+---
+
+### 🌐 Find Me Around the Web:
+* **GitHub:** [github.com/your-username](https://github.com/)
+* **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/)
+* **Instagram:** [@your_username](https://instagram.com/)
+
+---
+*⚡ "Keep learning and building through code."*
